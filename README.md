@@ -1,1 +1,1 @@
-# Dapp
+DAPP allows you to transfer your bitcoins using QR SCAN code 
